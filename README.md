@@ -1,1 +1,1 @@
-https://github.com/Chechevism?tab=repositories
+https://github.com/Chechevism/ono-tebe-nado/
