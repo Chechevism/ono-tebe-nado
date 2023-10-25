@@ -171,19 +171,15 @@ h2 {
 }
 
 .cover__description {
-  word-spacing: 17px;
-  padding-top: 12px;
+  word-spacing: 18px;
+  white-space: nowrap;
+  padding-top: 15px;
   z-index: 1;
-  text-align: end;
 }
 
 .cover__description-container {
   display: flex;
-  padding-bottom: 50px;
-  padding-top: 135px;
-  padding-right: 50px;
-  padding-left: 422px;
-  gap: 83px;
+  margin: 135px 50px 50px 422px;
 }
 
 .cover__description-text {
@@ -205,11 +201,13 @@ h2 {
   text-decoration: none;
   border: 1px solid #fff;
   padding: 12px 32px;
+  margin-left: 76px;
   background: transparent;
+  white-space: nowrap;
 }
 
 .lots {
-  padding: 180px 50px 181px 50px;
+  margin: 180px 50px 181px 50px;
 }
 
 .lots__heading {
@@ -358,7 +356,7 @@ h2 {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  padding-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .footer__menu {
