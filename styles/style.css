@@ -12,7 +12,7 @@ html {
 
 .footer {
   display: flex;
-  gap: 356px;
+  gap: 355px;
   padding: 150px 50px 90px 50px;
   align-items: center;
   
@@ -81,6 +81,7 @@ h2 {
   padding-top: 5px;
   padding-right: 2px;
   text-underline-offset: 5px;
+  max-width: 240px;
 }
 
 .header__address {
